@@ -1,9 +1,9 @@
 package proxy
 
 import (
-	. "../config"
-	"../lookup"
-	"../shoco"
+	. "github.com/silentred/goflyway/config"
+	"github.com/silentred/goflyway/lookup"
+	"github.com/silentred/goflyway/shoco"
 
 	"bytes"
 	"strings"

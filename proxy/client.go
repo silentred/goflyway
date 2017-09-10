@@ -1,10 +1,10 @@
 package proxy
 
 import (
-	. "../config"
-	"../logg"
-	"../lookup"
-	"../lru"
+	. "github.com/silentred/goflyway/config"
+	"github.com/silentred/goflyway/logg"
+	"github.com/silentred/goflyway/lookup"
+	"github.com/silentred/goflyway/lru"
 
 	"fmt"
 	"io/ioutil"

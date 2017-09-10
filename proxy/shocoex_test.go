@@ -1,9 +1,10 @@
 package proxy
 
 import (
-	"../config"
 	"strings"
 	"testing"
+
+	"github.com/silentred/goflyway/config"
 )
 
 func TestHost(t *testing.T) {

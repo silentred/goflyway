@@ -1,8 +1,8 @@
 package proxy
 
 import (
-	. "../config"
-	"../logg"
+	. "github.com/silentred/goflyway/config"
+	"github.com/silentred/goflyway/logg"
 
 	"bytes"
 	"io"

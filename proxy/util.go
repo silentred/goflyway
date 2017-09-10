@@ -1,9 +1,9 @@
 package proxy
 
 import (
-	. "../config"
-	"../counter"
-	"../logg"
+	. "github.com/silentred/goflyway/config"
+	"github.com/silentred/goflyway/counter"
+	"github.com/silentred/goflyway/logg"
 
 	"crypto/tls"
 	"encoding/base64"

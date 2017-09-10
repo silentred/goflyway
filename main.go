@@ -1,11 +1,11 @@
 package main
 
 import (
-	. "./config"
-	"./logg"
-	"./lookup"
-	"./lru"
-	"./proxy"
+	. "github.com/silentred/goflyway/config"
+	"github.com/silentred/goflyway/logg"
+	"github.com/silentred/goflyway/lookup"
+	"github.com/silentred/goflyway/lru"
+	"github.com/silentred/goflyway/proxy"
 
 	"fmt"
 	"runtime"

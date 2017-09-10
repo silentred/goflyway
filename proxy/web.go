@@ -1,8 +1,8 @@
 package proxy
 
 import (
-	. "../config"
-	"../lru"
+	. "github.com/silentred/goflyway/config"
+	"github.com/silentred/goflyway/lru"
 
 	"fmt"
 	"net/http"

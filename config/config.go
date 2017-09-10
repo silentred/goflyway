@@ -1,8 +1,8 @@
 package config
 
 import (
-	"../logg"
-	"../lru"
+	"github.com/silentred/goflyway/logg"
+	"github.com/silentred/goflyway/lru"
 
 	"crypto/aes"
 	"crypto/cipher"

@@ -1,8 +1,8 @@
 package lookup
 
 import (
-	. "../config"
-	"../logg"
+	. "github.com/silentred/goflyway/config"
+	"github.com/silentred/goflyway/logg"
 
 	"io/ioutil"
 	"net"

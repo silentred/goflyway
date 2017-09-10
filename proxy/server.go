@@ -1,9 +1,9 @@
 package proxy
 
 import (
-	. "../config"
-	"../logg"
-	"../lookup"
+	. "github.com/silentred/goflyway/config"
+	"github.com/silentred/goflyway/logg"
+	"github.com/silentred/goflyway/lookup"
 
 	"net"
 	"net/http"
