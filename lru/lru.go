@@ -4,7 +4,7 @@ import (
 	"container/list"
 	"sync"
 
-	"../logg"
+	"github.com/silentred/goflyway/logg"
 )
 
 type Cache struct {
